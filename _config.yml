@@ -81,9 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Zhiyuan Yang"
-  avatar           : "profile.png"
-  bio              : "I'm currently pursuing my M.E. with the Department of Electrical Engineering, Beihang University, China. 
-                      My research interests include sensor fusion and target tracking."
+  avatar           : "zhiyuan.jpg"
+  bio              : "M.Eng in Electrical Engineering"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
