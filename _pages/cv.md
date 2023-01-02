@@ -18,9 +18,9 @@ Education
   
 Skills
 ======
-* Skill Matlab
-* Skill Radar Signal Processing
-* Skill Python
+* Matlab
+* Radar Signal Processing
+* Python
 
 
   
