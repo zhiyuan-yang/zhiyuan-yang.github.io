@@ -23,6 +23,9 @@ Skills
 * Python
 
 
+Projects
+======
+see in projects navigation
   
 Teaching Assitant
 ======
