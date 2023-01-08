@@ -44,6 +44,7 @@ code implementation: https://github.com/zhiyuan-yang/Radar-Emitter-Identificatio
 In this project, we use Pseudo Wigner-Ville Distribution to extract the time-frequency feature of different modulated radar signals and then 
 using convolution neural network(CNN) to classify the radar signals. The article has been received by the 14th Chinese Institute of Electroincs(CIE) DSP Conference.
 
+see in https://zhiyuan-yang.github.io/files/projects.md
   
 Teaching Assitant
 ======
