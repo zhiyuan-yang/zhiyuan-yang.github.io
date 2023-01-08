@@ -18,8 +18,8 @@ main:
   - title: "CV"
     url: /cv/
     
-  #- title: "Projects"
-  #  url:/projects/
+  - title: "Projects"
+    url: https://zhiyuan-yang.github.io/files/projects
     
   #- title: "Guide"
   #  url: /markdown/
