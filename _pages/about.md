@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-This is the personal website of Zhiyuan Yang. I'm currently pursuing my M.Eng with the Department of Electrical Engineering,
-Beihang University, Beijing, China. My research interests include target tracking, sensor fusion. 
+I received my B.E. degree from Beihang University, Beijing, China in 2022. Currently I'm pursuing my M.Eng degree with the Department of Electrical Engineering,
+Beihang University. My research interests include target tracking, sensor fusion and radar signal processing. 
