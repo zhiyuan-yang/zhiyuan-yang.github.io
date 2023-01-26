@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Engineering, Beihang University, 2018~2022
-* M.Eng in Electrical Engineering, Beihang University, 2022~
+* B.Eng, College of Electroincs and Information Science, Beihang University, 2018~2022
+* M.Eng, College of Electroincs and Information Science, Beihang University, 2022~
 
 
   
