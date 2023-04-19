@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Download My [CV](https://zhiyuan-yang.github.io/files/Resume.pdf)  Last updated: April, 2023.
+
 Education
 ======
 * B.Eng, College of Electroincs and Information Science, Beihang University, 2018~2022
@@ -18,10 +20,10 @@ Education
   
 Skills
 ======
-* Matlab
+* Matlab/Python(proficient)
 * Radar Signal Processing
 * Target Tracking
-* Python
+* C/C++
 
 
 Projects
