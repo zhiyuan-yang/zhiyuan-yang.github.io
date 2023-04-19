@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download My [CV](https://zhiyuan-yang.github.io/files/Resume.pdf)  Last updated: April, 2023.
+Download detailed [CV](https://zhiyuan-yang.github.io/files/Resume.pdf)(Last updated: March, 2023)
 
 Education
 ======
