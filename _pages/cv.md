@@ -26,11 +26,6 @@ Skills
 * C/C++
 
 
-Projects
-======
-see details about projects in projects navigation 
-
-
 Teaching Assitant
 ======
 * Stochastic Process
