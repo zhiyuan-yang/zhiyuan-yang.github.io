@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download a detailed resume from [here](https://zhiyuan-yang.github.io/files/Resume.pdf)(Last updated: May, 2023)
+You can download a detailed resume [here](https://zhiyuan-yang.github.io/files/Resume.pdf)(Last updated: May, 2023)
 
 Education
 ======
@@ -19,12 +19,9 @@ Education
  
 Skills
 ======
-* Matlab/Python(proficient)
-* Deep Learning Libarary Pytorch
-* Deep Learning model such as CNN, Transformer, Diffusion Model, e.g.
-* Radar Signal Processing
-* Target Tracking
-* C/C++
+* Matlab/Python/Mysql(proficient), C/C++(know)
+* target tracking algorithms like the Kalman filter, the JPDA filter and the SOTA RFS theory
+* Deep Learning models like CNN, Transformer
 
 
 Teaching Assitant
