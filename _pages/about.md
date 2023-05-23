@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-:smile: Hi, there! I'm a first year master in Beihang Univresity, Beijing, China. I received my B.E. degree from Beihang University, Beijing, China in 2022. Currently I'm pursuing my M.Eng degree with the Department of Electrical Engineering, Beihang University. My main research interests include target tracking, sensor fusion and radar signal processing. I'm also interested in topics like deep learning and AI. 
+😄 Hi, there! I'm a first year master in Beihang Univresity, Beijing, China. I received my B.E. degree from Beihang University, Beijing, China in 2022. Currently I'm pursuing my M.Eng degree with the Department of Electrical Engineering, Beihang University. My main research interests include target tracking, sensor fusion and radar signal processing. I'm also interested in topics like deep learning and AI. 
 
 ## News
-*  :tada: One paper has been submitted to REMOTE SENSING(Q1,TOP)!
+*  🎉 One paper has been submitted to REMOTE SENSING(Q1,TOP)!
 
 ## Publications
  [1] 杨志远,张玉玺,孙进平等. 基于CNN的雷达辐射源信号开集识别方法[C]//中国电子学会数字信号处理专家委员会.
