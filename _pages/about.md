@@ -10,7 +10,7 @@ redirect_from:
 
 😄 Hi, there! I'm a first year master in Beihang Univresity, Beijing, China. I received my B.E. degree in electrical engineering from Beihang University, Beijing, China in 2022. Currently I'm pursuing my M.Eng degree with the Department of Electrical Engineering, Beihang University. My main research interests include target tracking, sensor fusion and radar signal processing. I'm also interested in topics like deep learning and AI. 
 
-👨‍💻 I'm now an asset management intern at China Post & Capital Fund Management Co., Ltd. starting from June 19th.
+👨‍💻 I will join China Mobile Research Institute(CMRI) as a deep learning researcher intern starting from June 27th.
 
 📧 I'm now looking for Phd/RA/Intern positions in deep learning realted fields. If you are interested in me, please drop me an E-mail and I would reply as soon as possible.
 
