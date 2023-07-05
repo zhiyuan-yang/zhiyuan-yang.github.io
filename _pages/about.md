@@ -14,6 +14,10 @@ redirect_from:
 
 📧 I'm now looking for Phd/RA/Intern positions in deep learning realted fields. If you are interested in me, please drop me an E-mail and I would reply as soon as possible.
 
+✉️ **Email**: zyyang0416@buaa.edu.cn
+
+🏠 **Address**: 29th Zhichun Road, Haidian District, Beijing, China
+
 ## News
 *  🎉 One paper has been accepted by REMOTE SENSING(**Q1,TOP**)!
 
