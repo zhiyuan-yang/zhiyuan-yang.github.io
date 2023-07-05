@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-😄 Hi, there! I'm a first year master in Beihang Univresity, Beijing, China. I received my B.E. degree in electrical engineering from Beihang University in 2022. Currently I'm pursuing my M.Eng degree with the Department of Electrical Engineering, Beihang University. My main research interests include target tracking, sensor fusion and radar signal processing. I'm also interested in topics like deep learning and AI. 
+😄 Hi, there! I'm a first year Master in Beihang University, Beijing, China. I received my B.E. degree in electrical engineering from Beihang University in 2022. Currently I'm pursuing my M.Eng degree with the Department of Electrical Engineering, Beihang University. My main research interests include target tracking, sensor fusion and radar signal processing. I'm also interested in topics like deep learning and AI. 
 
-👨‍💻 I will join China Mobile Research Institute(CMRI) as an intern of deep learning engineer starting from June 27th.
+👨‍💻 I'm now working in China Mobile Research Institute(CMRI) as a research intern in computer vision starting from June 27th.
 
 📧 I'm now looking for Phd/RA/Intern positions in deep learning realted fields. If you are interested in me, please drop me an E-mail and I would reply as soon as possible.
 
