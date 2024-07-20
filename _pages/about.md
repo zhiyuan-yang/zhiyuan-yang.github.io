@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year Master's student in Beihang University, Beijing, China. My research interests include machine learning and deep learning. I obtained my B.E. degree in electrical engineering from Beihang University in 2022. Currently I'm pursuing my M.Eng degree with the School of Electronics and Information Engineering. 
+I'm a second year Master's student in Electrical Engineering at Beihang University. My research interests include machine learning and medical image analysis. Previously, I obtained my B.E. degree in electrical engineering from Beihang University in 2022.
 
 **Email**: zyyang0416 at buaa.edu.cn
 
 **Address**: 29th Zhichun Road, Haidian District, Beijing, China
 
 ## News
-* [Codes](https://github.com/zhiyuan-yang/Edge-Guided-Cross-Scale-MRI-Super-resolution) for our multi-contrast MRI Super-resolution project are available now.
+* Our paper 'ETSCL: An Evidence Theory-Based Supervised Contrastive Learning Framework for Multi-modal Glaucoma Grading' has been accpeted by OMIA workshop at MICCAI'24. [Code](https://github.com/master-Shix/ETSCL)
+* [Codes](https://github.com/zhiyuan-yang/Edge-Guided-Cross-Scale-MRI-Super-resolution) for our multi-contrast MRI Super-resolution project [Arxiv](https://arxiv.org/abs/2407.05307) are available now.
 * One paper has been accepted by REMOTE SENSING(**Q1,TOP**) Codes are available [here](https://github.com/zhiyuan-yang/GP_GGIW_PHD_Filter).
 
 ## Publications
