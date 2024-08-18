@@ -11,8 +11,8 @@ redirect_from:
 I'm a second year Master's student in Electrical Engineering at Beihang University. My research interests include machine learning and medical image analysis. Previously, I obtained my B.Sc. degree in electrical engineering from Beihang University in 2022.
 
 ## News
+* Our paper 'Edge-guided and Cross-scale Feature Fusion Network for Efficient Multi-contrast MRI Super-Resolution' has been accepted by ICPR. [[Arxiv]](https://arxiv.org/abs/2407.05307) [[Code]](https://github.com/zhiyuan-yang/Edge-Guided-Cross-Scale-MRI-Super-resolution)
 * Our paper 'ETSCL: An Evidence Theory-Based Supervised Contrastive Learning Framework for Multi-modal Glaucoma Grading' has been accpeted by OMIA workshop at MICCAI'24. [[Arxiv]](https://arxiv.org/abs/2407.14230) [[Code]](https://github.com/master-Shix/ETSCL)
-* [[Code]](https://github.com/zhiyuan-yang/Edge-Guided-Cross-Scale-MRI-Super-resolution) for our multi-contrast MRI Super-resolution project [[Arxiv]](https://arxiv.org/abs/2407.05307) are available now.
 * One paper has been accepted by REMOTE SENSING(**Q1,TOP**). [[Code]](https://github.com/zhiyuan-yang/GP_GGIW_PHD_Filter)
 
 ## Publications
@@ -23,8 +23,7 @@ I'm a second year Master's student in Electrical Engineering at Beihang Universi
 ## Preprints
 [1] **Yang, Z.**, Zhang, B., Shi, Y., et al. (2024). ETSCL: An Evidence Theory-Based Supervised Contrastive Learning Framework for Multi-modal Glaucoma Grading. Ophthalmic Medical Image Analysis Workshop at MICCAI 2024 (Accepted) [[Arxiv]](https://arxiv.org/abs/2407.14230) [[Code]](https://github.com/master-Shix/ETSCL)
 
-[2] **Yang, Z.**, Zhang, B., Zeng, Z., et al. (2024). Edge-guided and Cross-scale Feature Fusion Network for 
-Efficient Multi-contrast MRI Super-Resolution. (Submitted to ICPR) [[Arxiv]](https://arxiv.org/abs/2407.05307)
+[2] **Yang, Z.**, Zhang, B., Zeng, Z., et al. (2024). Edge-guided and Cross-scale Feature Fusion Network for Efficient Multi-contrast MRI Super-Resolution. ICPR 2024 (Accepted) [[Arxiv]](https://arxiv.org/abs/2407.05307) [[Code]](https://github.com/zhiyuan-yang/Edge-Guided-Cross-Scale-MRI-Super-resolution)
 
 -------------------
 Last updated: July, 2024
